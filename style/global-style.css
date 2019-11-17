@@ -1,0 +1,30 @@
+.m-r-5{
+  margin-right: 5px;
+}
+.m-r-10{
+  margin-right: 10px;
+}
+.m-l-5{
+  margin-left: 5px;
+}
+.m-l-10{
+  margin-left: 10px;
+}
+
+
+.df{
+  display: flex;
+}
+.sb{
+  justify-content: space-between
+}
+.fs{
+  justify-content: flex-start
+}
+
+*{
+  box-sizing: border-box;
+}
+.test{
+  padding: 0 8px;
+}
